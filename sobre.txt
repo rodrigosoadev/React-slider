@@ -1,0 +1,1 @@
+utilizando reactjs, slider automatico de reviews + api externa
